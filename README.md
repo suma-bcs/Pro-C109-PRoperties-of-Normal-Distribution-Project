@@ -1,1 +1,2 @@
-# Pro-C109-PRoperties-of-Normal-Distribution-Project
+# Properties_of-_normal-_distribution
+project solution for c109
